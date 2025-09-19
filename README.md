@@ -6,14 +6,6 @@ This repository contains a collection of unofficial scripts designed to address 
 
 ---
 
-## 📜 How to Use
-
-To use a script, navigate to its directory and execute it. It is highly recommended to read and understand what each script does before running it on your system.
-
-**Note**: Some scripts may have specific dependencies. Please inspect the script's code for any requirements.
-
----
-
 ## 🤝 Contributions
 
 Contributions to fix bugs or improve these scripts are welcome! If you would like to contribute, please fork the repository and submit a pull request with your proposed changes.
